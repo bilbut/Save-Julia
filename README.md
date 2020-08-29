@@ -21,3 +21,4 @@ Points to take into account when creating a commercial version of software:
 - Design multiple forms of displaying grid in a way that a software can use those forms of displaying grid: software in this repository uses square units, but these units can have any shape as long as they are closed surfaces.
 - Use a secure hash function to generate hash based on result. 
 - I recommend a new result every week to keep pace and interest.
+- Keep record and statistics of best stories with highest acceptance for saving Julia as well as prizes amounts, number of prizes, winners and certain winner data.
